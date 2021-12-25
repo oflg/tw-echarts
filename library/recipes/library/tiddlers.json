@@ -1,6 +1,6 @@
 [
     {
-        "version": "0.0.1-alpha1",
+        "version": "0.0.1",
         "type": "application/json",
         "title": "$:/plugins/Gk0Wk/echarts",
         "plugin-type": "plugin",
@@ -10,7 +10,7 @@
         "author": "Gk0Wk",
         "source": "https://github.com/Gk0Wk/TiddlySeq/tree/master/plugins/Gk0Wk/echarts",
         "dependents": "",
-        "readme": "<$list filter=\"[[$:/language]get[text]removeprefix[$:/languages/]else[en-GB]]\" variable=\"lang\">\n<$list filter=\"[<lang>search[zh]]\">\n\n用于 TiddlyWiki5 的 EChart 库。[[EChart|https://echarts.apache.org/zh/index.html]] 是一个基于 JavaScript 的开源可视化图表库。\n\n本插件主要作为其他插件的基础库来使用。\n\n</$list>\n\n<$list filter=\"[<lang>!search[zh]]\">\n\nEChart library for TiddlyWiki5. [[EChart|https://echarts.apache.org/en/index.html]] is an open source javascript visualization library.\n\nThis plugin is mainly used as a base library for other plugins.\n\n</$list>\n</$list>\n",
+        "readme": "<$list filter=\"[[$:/language]get[text]removeprefix[$:/languages/]else[en-GB]]\" variable=\"lang\">\n<$list filter=\"[<lang>search[zh]]\">\n\n将强大的可视化工具 [[ECharts|https://echarts.apache.org/zh/index.html]] 以优雅的方式与 TiddlyWiki 相结合。\n\n插件说明与使用教程较长，请参考 https://tiddly-gittly.github.io/tw-echarts/\n\n</$list>\n\n<$list filter=\"[<lang>!search[zh]]\">\n\nCombines the powerful visualization tool [[ECharts|https://echarts.apache.org/en/index.html]] with TiddlyWiki in an elegant way.\n\nThe plugin description and tutorial is long, please refer to https://tiddly-gittly.github.io/tw-echarts/\n\n</$list>\n</$list>\n",
         "requires-reload": "yes"
     }
 ]
