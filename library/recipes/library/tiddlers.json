@@ -10,7 +10,7 @@
         "author": "Gk0Wk",
         "source": "https://github.com/tiddly-gittly/tw-echarts/tree/master/plugins/Gk0Wk/echarts",
         "dependents": "$:/plugins/Gk0Wk/focused-tiddler",
-        "Modern.TiddlyDev#SHA256-Hashed": "387ef55f31f94dd8a73aaa4c3cf688c8d03e26f6540cb621f5bc2076b4a980da",
+        "Modern.TiddlyDev#SHA256-Hashed": "64a36fddf4837ed1f1bd002f2a12a9f1c23a56e5dcea0c6c2d50c44921744f14",
         "readme": "<$list filter=\"[[$:/language]get[text]removeprefix[$:/languages/]else[en-GB]]\" variable=\"lang\">\n<$list filter=\"[<lang>search[zh]]\">\n\n将强大的可视化工具 [[ECharts|https://echarts.apache.org/zh/index.html]] 以优雅的方式与 TiddlyWiki 相结合。\n\n插件说明与使用教程较长，请参考 https://tiddly-gittly.github.io/tw-echarts/\n\n> 本插件使用灵活而强大的 <$text text=\"TiddlyWiki\" /> 开发框架 [[Tiddly.ModernDev|https://github.com/tiddly-gittly/Modern.TiddlyDev]]\n\n</$list>\n\n<$list filter=\"[<lang>!search[zh]]\">\n\nCombines the powerful visualization tool [[ECharts|https://echarts.apache.org/en/index.html]] with TiddlyWiki in an elegant way.\n\nThe plugin description and tutorial is long, please refer to https://tiddly-gittly.github.io/tw-echarts/\n\n> This plugin uses the flexible and powerful <$text text=\"TiddlyWiki\" /> development framework [[Tiddly.ModernDev|https://github.com/tiddly-gittly/Modern.TiddlyDev]]\n\n</$list>\n</$list>\n\n[img[$:/plugins/Gk0Wk/echarts/banner]]\n",
         "requires-reload": "yes"
     },
